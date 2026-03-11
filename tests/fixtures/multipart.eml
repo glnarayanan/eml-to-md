@@ -1,0 +1,19 @@
+From: alice@example.com
+To: bob@example.com
+CC: carol@example.com
+Subject: Multipart test
+Date: Mon, 10 Mar 2026 10:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="utf-8"
+
+Plain text fallback.
+
+--boundary123
+Content-Type: text/html; charset="utf-8"
+
+<html><body><p>Rich <em>HTML</em> version.</p></body></html>
+
+--boundary123--

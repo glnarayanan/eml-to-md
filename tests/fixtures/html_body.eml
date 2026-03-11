@@ -1,0 +1,17 @@
+From: alice@example.com
+To: bob@example.com
+Subject: HTML email test
+Date: Mon, 10 Mar 2026 10:00:00 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<body>
+<h2>Hello Bob</h2>
+<p>This is an <strong>HTML</strong> email with <a href="https://example.com">a link</a>.</p>
+<ul>
+<li>Item one</li>
+<li>Item two</li>
+</ul>
+</body>
+</html>
