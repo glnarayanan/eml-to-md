@@ -14,7 +14,7 @@ If you discover a security vulnerability in eml-to-md, please report it responsi
 
 **Do not open a public GitHub issue for security vulnerabilities.**
 
-Instead, please use [GitHub's private vulnerability reporting](https://github.com/glnarayanan/eml-to-md/security/advisories/new) or email **glnarayanan@gmail.com** with:
+Instead, please use [GitHub's private vulnerability reporting](https://github.com/glnarayanan/eml-to-md/security/advisories/new) or email **l_narayanan@gln.me** with:
 
 - A description of the vulnerability
 - Steps to reproduce the issue
