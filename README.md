@@ -44,6 +44,11 @@ cat message.eml | eml2md -
 eml2md --version
 ```
 
+## Powershell
+```bash
+# Batch convert into a folder
+Get-ChildItem *.eml | ForEach-Object { eml2md $_.FullName -o converted/ }
+```
 ## Python API
 
 ```python
